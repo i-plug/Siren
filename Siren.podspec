@@ -11,11 +11,11 @@ Siren is a Swift port of Harpy, an Objective-C library that achieves the same fu
 Siren is actively maintained by Arthur Sabintsev and Aaron Brager.
                    DESC
 
-  s.homepage     = "https://github.com/ArtSabintsev/Siren"
+  s.homepage     = "https://github.com/toptier/Siren"
   s.license      = "MIT"
   s.authors      = { "Arthur Ariel Sabintsev" => "arthur@sabintsev.com", "Aaron Brager" => "getaaron@gmail.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/ArtSabintsev/Siren.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/toptier/Siren.git", :tag => s.version.to_s }
   s.source_files = 'Siren/Siren.swift'
   s.resources    = 'Siren/Siren.bundle'
   s.requires_arc = true
